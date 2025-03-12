@@ -22,7 +22,7 @@ class StartScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Quiz 1'),
+        title: Text('Quiz 1 Kelompok 21'),
         centerTitle: true, // Menjadikan judul di tengah
         automaticallyImplyLeading: false, // Tidak ada tombol back
       ),
